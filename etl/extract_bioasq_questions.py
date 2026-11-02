@@ -4,9 +4,15 @@ import json
 import re
 from pathlib import Path
 
+import structlog
 from openpyxl import Workbook
 from openpyxl.styles import Font
 
+from logs.logger_config import log_file_for, logged_job, setup_production_logging
+
+logger = structlog.get_logger(__name__)
+
+JOB_NAME = "extract_bioasq_questions"
 PMID_RE = re.compile(r"/pubmed/(\d+)\s*$")
 
 
@@ -21,13 +27,26 @@ def extract_pmids(urls):
 
 
 def main():
+    """Read the BioASQ JSON and write the questions with their PMIDs to Excel."""
     root = Path(__file__).resolve().parent.parent
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input", type=Path, default=root / "data" / "BioASQ_raw.json")
     parser.add_argument("--output", type=Path, default=root / "data" / "BioASQ_extracted.xlsx")
     args = parser.parse_args()
 
-    with args.input.open(encoding="utf-8") as f:
+    with logged_job(JOB_NAME):
+        write_questions_excel(args.input, args.output)
+
+
+def write_questions_excel(input_path, output_path):
+    """Write the questions of a BioASQ JSON file, with their PMIDs, to Excel.
+
+    Args:
+        input_path: BioASQ JSON file with a top-level "questions" list.
+        output_path: Excel file to write.
+    """
+    logger.info("extract_started", input=str(input_path), output=str(output_path))
+    with Path(input_path).open(encoding="utf-8") as f:
         questions = json.load(f)["questions"]
 
     wb = Workbook()
@@ -46,9 +65,10 @@ def main():
     for col, width in zip("ABCD", (28, 10, 60, 15)):
         ws.column_dimensions[col].width = width
 
-    wb.save(args.output)
-    print(f"Wrote {len(questions)} questions to {args.output}")
+    wb.save(output_path)
+    logger.info("extract_done", questions=len(questions), output=str(output_path))
 
 
 if __name__ == "__main__":
+    setup_production_logging(log_file_for(JOB_NAME))  # once, at the application entry point
     main()

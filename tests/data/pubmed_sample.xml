@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PubmedArticleSet>
+
+    <PubmedArticle>
+        <MedlineCitation IndexingMethod="Manual" Owner="NLM" Status="MEDLINE">
+            <PMID Version="1">24086431</PMID>
+            <DateCompleted>
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>07</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2025</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </DateRevised>
+            <Article PubModel="Electronic-eCollection">
+                <Journal>
+                    <ISSN IssnType="Electronic">1932-6203</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>8</Volume>
+                        <Issue>9</Issue>
+                        <PubDate>
+                            <Year>2013</Year>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>PloS one</Title>
+                    <ISOAbbreviation>PLoS One</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>NOTCH3 variants and risk of ischemic stroke.</ArticleTitle>
+                <Pagination>
+                    <StartPage>e75035</StartPage>
+                    <MedlinePgn>e75035</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">e75035</ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0075035</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mutations within the NOTCH3 gene cause
+                        cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+                        (CADASIL). CADASIL mutations appear to be restricted to the first twenty-four exons, resulting
+                        in the gain or loss of a cysteine amino acid. The role of other exonic NOTCH3 variation not
+                        involving cysteine residues and mutations in exons 25-33 in ischemic stroke remains unresolved.
+                    </AbstractText>
+                    <AbstractText Label="METHODS" NlmCategory="METHODS">All 33 exons of NOTCH3 were sequenced in 269
+                        Caucasian probands from the Siblings With Ischemic Stroke Study (SWISS), a 70-center North
+                        American affected sibling pair study and 95 healthy Caucasian control subjects. Variants
+                        identified by sequencing in the SWISS probands were then tested for association with ischemic
+                        stroke using US Caucasian controls collected at the Mayo Clinic (n=654), and further assessed in
+                        a Caucasian (n=802) and African American (n=298) patient-control series collected through the
+                        Ischemic Stroke Genetics Study (ISGS).
+                    </AbstractText>
+                    <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sequencing of the 269 SWISS probands identified
+                        one (0.4%) with small vessel type stroke carrying a known CADASIL mutation (p.R558C; Exon 11).
+                        Of the 19 common NOTCH3 variants identified, the only variant significantly associated with
+                        ischemic stroke after multiple testing adjustment was p.R1560P (rs78501403; Exon 25) in the
+                        combined SWISS and ISGS Caucasian series (Odds Ratio [OR] 0.50, P=0.0022) where presence of the
+                        minor allele was protective against ischemic stroke. Although only significant prior to
+                        adjustment for multiple testing, p.T101T (rs3815188; Exon 3) was associated with an increased
+                        risk of small-vessel stroke (OR: 1.56, P=0.008) and p.P380P (rs61749020; Exon 7) was associated
+                        with decreased risk of large-vessel stroke (OR: 0.35, P=0.047) in Caucasians. No significant
+                        associations were observed in the small African American series.
+                    </AbstractText>
+                    <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Cysteine-affecting NOTCH3 mutations are
+                        rare in patients with typical ischemic stroke, however our observation that common NOTCH3
+                        variants may be associated with risk of ischemic stroke warrants further study.
+                    </AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Ross</LastName>
+                        <ForeName>Owen A</ForeName>
+                        <Initials>OA</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Neuroscience, Mayo Clinic, Jacksonville, Florida, United States
+                                of America.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Soto-Ortolaza</LastName>
+                        <ForeName>Alexandra I</ForeName>
+                        <Initials>AI</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Heckman</LastName>
+                        <ForeName>Michael G</ForeName>
+                        <Initials>MG</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Verbeeck</LastName>
+                        <ForeName>Christophe</ForeName>
+                        <Initials>C</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Serie</LastName>
+                        <ForeName>Daniel J</ForeName>
+                        <Initials>DJ</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Rayaprolu</LastName>
+                        <ForeName>Sruti</ForeName>
+                        <Initials>S</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Rich</LastName>
+                        <ForeName>Stephen S</ForeName>
+                        <Initials>SS</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Nalls</LastName>
+                        <ForeName>Michael A</ForeName>
+                        <Initials>MA</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Singleton</LastName>
+                        <ForeName>Andrew</ForeName>
+                        <Initials>A</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Guerreiro</LastName>
+                        <ForeName>Rita</ForeName>
+                        <Initials>R</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Kinsella</LastName>
+                        <ForeName>Emma</ForeName>
+                        <Initials>E</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Wszolek</LastName>
+                        <ForeName>Zbigniew K</ForeName>
+                        <Initials>ZK</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Brott</LastName>
+                        <ForeName>Thomas G</ForeName>
+                        <Initials>TG</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Brown</LastName>
+                        <ForeName>Robert D</ForeName>
+                        <Initials>RD</Initials>
+                        <Suffix>Jr</Suffix>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Worrall</LastName>
+                        <ForeName>Bradford B</ForeName>
+                        <Initials>BB</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Meschia</LastName>
+                        <ForeName>James F</ForeName>
+                        <Initials>JF</Initials>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <GrantList CompleteYN="Y">
+                    <Grant>
+                        <GrantID>R01 NS042733</GrantID>
+                        <Acronym>NS</Acronym>
+                        <Agency>NINDS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>MC_G1000735</GrantID>
+                        <Acronym>MRC_</Acronym>
+                        <Agency>Medical Research Council</Agency>
+                        <Country>United Kingdom</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>Z01 AG000950</GrantID>
+                        <Acronym>ImNIH</Acronym>
+                        <Agency>Intramural NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>089698</GrantID>
+                        <Acronym>WT_</Acronym>
+                        <Agency>Wellcome Trust</Agency>
+                        <Country>United Kingdom</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>R01 NS039987</GrantID>
+                        <Acronym>NS</Acronym>
+                        <Agency>NINDS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>P50 NS072187</GrantID>
+                        <Acronym>NS</Acronym>
+                        <Agency>NINDS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>Z01 AG000950-06</GrantID>
+                        <Acronym>AG</Acronym>
+                        <Agency>NIA NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>wt089698</GrantID>
+                        <Acronym>WT_</Acronym>
+                        <Agency>Wellcome Trust</Agency>
+                        <Country>United Kingdom</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>R01 NS39987</GrantID>
+                        <Acronym>NS</Acronym>
+                        <Agency>NINDS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                    <Grant>
+                        <GrantID>R01 NS42733</GrantID>
+                        <Acronym>NS</Acronym>
+                        <Agency>NINDS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                </GrantList>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                    <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+                    <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2013</Year>
+                    <Month>09</Month>
+                    <Day>23</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>United States</Country>
+                <MedlineTA>PLoS One</MedlineTA>
+                <NlmUniqueID>101285081</NlmUniqueID>
+                <ISSNLinking>1932-6203</ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C499374">NOTCH3 protein, human</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D000071656">Receptor, Notch3</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D051880">Receptors, Notch</NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D002545">Brain Ischemia</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D005787">Gene Frequency</DescriptorName>
+                    <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008957">Models, Genetic</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000071656">Receptor, Notch3</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D051880">Receptors, Notch</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D044465">White People</DescriptorName>
+                    <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <CoiStatement>
+                <b>Competing Interests:</b>
+                Owen A. Ross is a PLOS ONE Editorial Board member. This does not alter
+                the authors' adherence to all the PLOS ONE policies on sharing data and materials.
+            </CoiStatement>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2013</Year>
+                    <Month>4</Month>
+                    <Day>27</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2013</Year>
+                    <Month>8</Month>
+                    <Day>8</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2013</Year>
+                    <Month>10</Month>
+                    <Day>3</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2013</Year>
+                    <Month>10</Month>
+                    <Day>3</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2014</Year>
+                    <Month>8</Month>
+                    <Day>8</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pmc-release">
+                    <Year>2013</Year>
+                    <Month>9</Month>
+                    <Day>23</Day>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">24086431</ArticleId>
+                <ArticleId IdType="pmc">PMC3781028</ArticleId>
+                <ArticleId IdType="doi">10.1371/journal.pone.0075035</ArticleId>
+                <ArticleId IdType="pii">PONE-D-13-17475</ArticleId>
+            </ArticleIdList>
+            <ReferenceList>
+                <Reference>
+                    <Citation>
+                        Meschia JF, Worrall BB, Rich SS (2011) Genetic susceptibility to ischemic stroke. Nat. Rev
+                        Neurol
+                        7: 369-378. doi:10.1038/nrneurol.2011.80.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1038/nrneurol.2011.80</ArticleId>
+                        <ArticleId IdType="pmc">PMC3932660</ArticleId>
+                        <ArticleId IdType="pubmed">21629240</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Ross OA, Worrall BB, Meschia JF (2007) Advancing stroke therapeutics through genetic
+                        understanding. Curr Drug Targets
+                        8: 850-859. doi:10.2174/138945007781077355. PubMed: 17630939.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.2174/138945007781077355</ArticleId>
+                        <ArticleId IdType="pubmed">17630939</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Joutel A, Corpechot C, Ducros A, Vahedi K, Chabriat H
+                        et al. (1996) Notch3 mutations in CADASIL, a hereditary adult-onset condition causing stroke and
+                        dementia. Nature
+                        383: 707-710. doi:10.1038/383707a0. PubMed: 8878478.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1038/383707a0</ArticleId>
+                        <ArticleId IdType="pubmed">8878478</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Federico A, Bianchi S, Dotti MT (2005) The spectrum of mutations for CADASIL diagnosis. Neurol
+                        Sci
+                        26: 117-124. doi:10.1007/s10072-005-0444-3. PubMed: 15995828.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1007/s10072-005-0444-3</ArticleId>
+                        <ArticleId IdType="pubmed">15995828</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Dichgans M (2003) Ch.6 Monogenic causes of ischaemic stroke. In: Markus H. Stroke
+                        Genetics. Publ. Oxford Press; pp.165-195.
+                    </Citation>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Guidetti D, Casali B, Mazzei RL, Dotti MT (2006) Cerebral autosomal dominant arteriopathy with
+                        subcortical infarcts and leukoencephalopathy. Clin Exp Hypertens
+                        28: 271-277. doi:10.1080/10641960600549223. PubMed: 16833034.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1080/10641960600549223</ArticleId>
+                        <ArticleId IdType="pubmed">16833034</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Kalimo H, Ruchoux MM, Viitanen M, Kalaria RN (2002) CADASIL: a common form of hereditary
+                        arteriopathy causing brain infarcts and dementia. Brain Pathol
+                        12: 371-384. PubMed: 12146805.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC8096024</ArticleId>
+                        <ArticleId IdType="pubmed">12146805</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Pescini F, Bianchi S, Salvadori E, Poggesi A, Dotti MT
+                        et al. (2008) A pathogenic mutation on exon 21 of the NOTCH3 gene causing CADASIL in an
+                        octogenarian paucisymptomatic patient. J Neurol Sci
+                        267: 170-173. doi:10.1016/j.jns.2007.10.017. PubMed: 18022198.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1016/j.jns.2007.10.017</ArticleId>
+                        <ArticleId IdType="pubmed">18022198</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Vikelis M, Papatriantafyllou J, Karageorgiou CE (2007) A novel CADASIL-causing mutation in a
+                        stroke patient. Swiss Med Wkly
+                        137: 323-325. PubMed: 17629811.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">17629811</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Fouillade C, Chabriat H, Riant F, Mine M, Arnoud M
+                        et al. (2008) Activating NOTCH3 mutation in a patient with small-vessel-disease of the brain.
+                        Hum Mutat
+                        29: 452. doi:10.1002/humu.9526. PubMed: 18273901.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1002/humu.9526</ArticleId>
+                        <ArticleId IdType="pubmed">18273901</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Arboleda-Velasquez JF, Zhou Z, Shin HK, Louvi A, Kim HH
+                        et al. (2008) Linking Notch signaling to ischemic stroke. Proc Natl Acad Sci U S A
+                        105: 4856-4861. doi:10.1073/pnas.0709867105. PubMed: 18347334.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1073/pnas.0709867105</ArticleId>
+                        <ArticleId IdType="pmc">PMC2290794</ArticleId>
+                        <ArticleId IdType="pubmed">18347334</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>(1988) The World Health Organization MONICA Project (monitoring trends and determinants in
+                        cardiovascular disease): a major international collaboration. WHO MONICA Project Principal
+                        Investigators. J Clin Epidemiol
+                        41: 105-114. doi:10.1016/0895-4356(88)90084-4. PubMed: 3335877. doi:10.1016/0895-4356(88)90084-4
+                        PubMed: 3335877
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1016/0895-4356(88)90084-4</ArticleId>
+                        <ArticleId IdType="doi">10.1016/0895-4356(88)90084-4</ArticleId>
+                        <ArticleId IdType="pubmed">3335877</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Adams HP Jr., Bendixen BH, Kappelle LJ, Biller J, Love BB et al. (1993) Classification of
+                        subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST.
+                        Trial of Org 10172 in Acute Stroke Treatment. Stroke 24: 35-41.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">7678184</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Guerreiro RJ, Lohmann E, Kinsella E, Bras JM, Luu N et al. (2011) Exome sequencing reveals
+                        an unexpected genetic cause of disease: NOTCH3 mutation in a Turkish family with Alzheimer’s
+                        disease. Neurobiol Aging.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC3306507</ArticleId>
+                        <ArticleId IdType="pubmed">22153900</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Barrett JC (2009) Haploview: Visualization and analysis of SNP genotype data. Cold Spring
+                        Harb Protoc 2009: pdb ip71.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">20147036</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Dudoit S, van der Laan MJ, Pollard KS (2004) Multiple testing. Part I. Single-step
+                        procedures for control of general type I error rates. Stat Appl Genet Mol Biol 3: Article13
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">16646791</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Ramensky V, Bork P, Sunyaev S (2002) Human non-synonymous SNPs: server and survey. Nucleic Acids
+                        Res
+                        30: 3894-3900. doi:10.1093/nar/gkf493. PubMed: 12202775.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1093/nar/gkf493</ArticleId>
+                        <ArticleId IdType="pmc">PMC137415</ArticleId>
+                        <ArticleId IdType="pubmed">12202775</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        Schmidt H, Zeginigg M, Wiltgen M, Freudenberger P, Petrovic K
+                        et al. (2011) Genetic variants of the NOTCH3 gene in the elderly and magnetic resonance imaging
+                        correlates of age-related cerebral small vessel disease. Brain
+                        134: 3384-3397. doi:10.1093/brain/awr252. PubMed: 22006983.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1093/brain/awr252</ArticleId>
+                        <ArticleId IdType="pmc">PMC3212720</ArticleId>
+                        <ArticleId IdType="pubmed">22006983</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>
+                        High FA, Epstein JA (2008) The multifaceted role of Notch in cardiac development and disease.
+                        Nat Rev Genet
+                        9: 49-61. doi:10.1038/nrg2279. PubMed: 18071321.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1038/nrg2279</ArticleId>
+                        <ArticleId IdType="pubmed">18071321</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+            </ReferenceList>
+        </PubmedData>
+    </PubmedArticle>
+    <PubmedArticle>
+        <MedlineCitation IndexingMethod="Manual" Owner="NLM" Status="MEDLINE">
+            <PMID Version="1">22623959</PMID>
+            <DateCompleted>
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>19</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2022</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </DateRevised>
+            <Article PubModel="Print-Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1932-6203</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>7</Volume>
+                        <Issue>5</Issue>
+                        <PubDate>
+                            <Year>2012</Year>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>PloS one</Title>
+                    <ISOAbbreviation>PLoS One</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Identification of a known mutation in Notch 3 in familiar CADASIL in China.</ArticleTitle>
+                <Pagination>
+                    <StartPage>e36590</StartPage>
+                    <MedlinePgn>e36590</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">e36590</ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0036590</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cerebral autosomal dominant arteriopathy
+                        with subcortical infarcts and leukoencephalopathy (CADASIL) is an inherited disease leading to
+                        recurrent ischemic stroke and vascular dementia. Numerous mutations in the 23 exons of the
+                        NOTCH3 gene have been reported to cause CADASIL in Caucasian populations, but the full spectrum
+                        of genetic changes leading to this disease is yet to be known and, especially, very few reports
+                        are available on CADASIL in Asian populations.
+                    </AbstractText>
+                    <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">We genotyped members of a
+                        5-generational Han Chinese family with CADASIL patients and identified an R133C mutation in the
+                        NOTCH3 gene. Clinical analysis demonstrated that the penetrance of the mutation was not
+                        complete. Five of the mutation carriers, not exposed to the known vascular risk factors, did not
+                        show any clinical feature of CADASIL, suggesting the importance of environmental factors to the
+                        development of this disease.
+                    </AbstractText>
+                    <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Members of a 5-generational Han Chinese
+                        family with CADASIL patients had an R133C mutation in the NOTCH3 gene but only individuals
+                        exposed to known vascular risk factors developed CADASIL.
+                    </AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Tan</LastName>
+                        <ForeName>Zhen-Xuan</ForeName>
+                        <Initials>ZX</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Genomics Research Center, Harbin Medical University, Harbin, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Li</LastName>
+                        <ForeName>Fei-Feng</ForeName>
+                        <Initials>FF</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Qu</LastName>
+                        <ForeName>You-Yang</ForeName>
+                        <Initials>YY</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Liu</LastName>
+                        <ForeName>Ji</ForeName>
+                        <Initials>J</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Liu</LastName>
+                        <ForeName>Gui-Rong</ForeName>
+                        <Initials>GR</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zhou</LastName>
+                        <ForeName>Jin</ForeName>
+                        <Initials>J</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zhu</LastName>
+                        <ForeName>Yu-Lan</ForeName>
+                        <Initials>YL</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Liu</LastName>
+                        <ForeName>Shu-Lin</ForeName>
+                        <Initials>SL</Initials>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D002363">Case Reports</PublicationType>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2012</Year>
+                    <Month>05</Month>
+                    <Day>18</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>United States</Country>
+                <MedlineTA>PLoS One</MedlineTA>
+                <NlmUniqueID>101285081</NlmUniqueID>
+                <ISSNLinking>1932-6203</ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C499374">NOTCH3 protein, human</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D000071656">Receptor, Notch3</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D051880">Receptors, Notch</NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D044466">Asian People</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+                    <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D046589">CADASIL</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                    <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D002681">China</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D020125">Mutation, Missense</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D010375">Pedigree</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000071656">Receptor, Notch3</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D051880">Receptors, Notch</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <CoiStatement>
+                <b>Competing Interests:</b>
+                The authors have declared that no competing interests exist.
+            </CoiStatement>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2011</Year>
+                    <Month>12</Month>
+                    <Day>7</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2012</Year>
+                    <Month>4</Month>
+                    <Day>3</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2012</Year>
+                    <Month>5</Month>
+                    <Day>25</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2012</Year>
+                    <Month>5</Month>
+                    <Day>25</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2012</Year>
+                    <Month>9</Month>
+                    <Day>20</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pmc-release">
+                    <Year>2012</Year>
+                    <Month>5</Month>
+                    <Day>18</Day>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">22623959</ArticleId>
+                <ArticleId IdType="pmc">PMC3356370</ArticleId>
+                <ArticleId IdType="doi">10.1371/journal.pone.0036590</ArticleId>
+                <ArticleId IdType="pii">PONE-D-11-24676</ArticleId>
+            </ArticleIdList>
+            <ReferenceList>
+                <Reference>
+                    <Citation>Joutel A, Corpechot C, Ducros A, Vahedi K, Chabriat H, et al. Notch3 mutations in CADASIL,
+                        a hereditary adult-onset condition causing stroke and dementia. Nature. 1996;383:707–710.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">8878478</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Dichgans M, Mayer M, Uttner I, Bruning R, Muller-Hocker J, et al. The phenotypic spectrum
+                        of CADASIL: clinical findings in 102 cases. Ann Neurol. 1998;44:731–739.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">9818928</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Opherk C, Peters N, Herzog J, Luedtke R, Dichgans M. Long-term prognosis and causes of
+                        death in CADASIL: a retrospective study in 411 patients. Brain. 2004;127:2533–2539.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15364702</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Chabriat H, Vahedi K, Iba-Zizen MT, Joutel A, Nibbio A, et al. Clinical spectrum of
+                        CADASIL: a study of 7 families. Cerebral autosomal dominant arteriopathy with subcortical
+                        infarcts and leukoencephalopathy. Lancet. 1995;346:934–939.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">7564728</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Markus HS, Martin RJ, Simpson MA, Dong YB, Ali N, et al. Diagnostic strategies in CADASIL.
+                        Neurology. 2002;59:1134–1138.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">12395806</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Tang SC, Lee MJ, Jeng JS, Yip PK. Arg332Cys mutation of NOTCH3 gene in the first known
+                        Taiwanese family with cerebral autosomal dominant arteriopathy with subcortical infarcts and
+                        leukoencephalopathy. J Neurol Sci. 2005;228:125–128.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15694192</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Chabriat H, Joutel A, Dichgans M, Tournier-Lasserve E, Bousser MG. Cadasil. Lancet Neurol.
+                        2009;8:643–653.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">19539236</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Choi JC, Kang SY, Kang JH, Park JK. Intracerebral hemorrhages in CADASIL. Neurology.
+                        2006;67:2042–2044.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">17135568</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Rufa A, De Stefano N, Dotti MT, Bianchi S, Sicurelli F, et al. Acute unilateral visual
+                        loss as the first symptom of cerebral autosomal dominant arteriopathy with subcortical infarcts
+                        and leukoencephalopathy. Arch Neurol. 2004;61:577–580.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15096408</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Singhal S, Bevan S, Barrick T, Rich P, Markus HS. The influence of genetic and
+                        cardiovascular risk factors on the CADASIL phenotype. Brain. 2004;127:2031–2038.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15229130</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Tikka S, Mykkanen K, Ruchoux MM, Bergholm R, Junna M, et al. Congruence between NOTCH3
+                        mutations and GOM in 131 CADASIL patients. Brain. 2009;132:933–939.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC2668941</ArticleId>
+                        <ArticleId IdType="pubmed">19174371</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Escary JL, Cecillon M, Maciazek J, Lathrop M, Tournier-Lasserve E, et al. Evaluation of
+                        DHPLC analysis in mutational scanning of Notch3, a gene with a high G-C content. Hum Mutat.
+                        2000;16:518–526.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">11102981</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Dotti MT, Federico A, Mazzei R, Bianchi S, Scali O, et al. The spectrum of Notch3
+                        mutations in 28 Italian CADASIL families. J Neurol Neurosurg Psychiatry. 2005;76:736–738.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC1739611</ArticleId>
+                        <ArticleId IdType="pubmed">15834039</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Federico A, Bianchi S, Dotti MT. The spectrum of mutations for CADASIL diagnosis. Neurol
+                        Sci. 2005;26:117–124.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15995828</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Joutel A, Vahedi K, Corpechot C, Troesch A, Chabriat H, et al. Strong clustering and
+                        stereotyped nature of Notch3 mutations in CADASIL patients. Lancet. 1997;350:1511–1515.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">9388399</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Mykkanen K, Savontaus ML, Juvonen V, Sistonen P, Tuisku S, et al. Detection of the founder
+                        effect in Finnish CADASIL families. Eur J Hum Genet. 2004;12:813–819.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15378071</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Desmond DW, Moroney JT, Lynch T, Chan S, Chin SS, et al. The natural history of CADASIL: a
+                        pooled analysis of previously published cases. Stroke. 1999;30:1230–1233.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">10356105</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Pescini F, Bianchi S, Salvadori E, Poggesi A, Dotti MT, et al. A pathogenic mutation on
+                        exon 21 of the NOTCH3 gene causing CADASIL in an octogenarian paucisymptomatic patient. J Neurol
+                        Sci. 2008;267:170–173.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">18022198</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Pantoni L, Sarti C, Pescini F, Bianchi S, Bartolini L, et al. Thrombophilic risk factors
+                        and unusual clinical features in three Italian CADASIL patients. Eur J Neurol. 2004;11:782–787.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15525301</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Adib-Samii P, Brice G, Martin RJ, Markus HS Clinical spectrum of CADASIL and the effect of
+                        cardiovascular risk factors on phenotype: study in 200 consecutively recruited individuals.
+                        Stroke. 41:630–634.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">20167921</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Artavanis-Tsakonas S, Rand MD, Lake RJ. Notch signaling: cell fate control and signal
+                        integration in development. Science. 1999;284:770–776.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">10221902</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Joutel A, Andreux F, Gaulis S, Domenga V, Cecillon M, et al. The ectodomain of the Notch3
+                        receptor accumulates within the cerebrovasculature of CADASIL patients. J Clin Invest.
+                        2000;105:597–605.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC289174</ArticleId>
+                        <ArticleId IdType="pubmed">10712431</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Dichgans M, Ludwig H, Muller-Hocker J, Messerschmidt A, Gasser T. Small in-frame deletions
+                        and missense mutations in CADASIL: 3D models predict misfolding of Notch3 EGF-like repeat
+                        domains. Eur J Hum Genet. 2000;8:280–285.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">10854111</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Peters N, Opherk C, Bergmann T, Castro M, Herzog J, et al. Spectrum of mutations in
+                        biopsy-proven CADASIL: implications for diagnostic strategies. Arch Neurol. 2005;62:1091–1094.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">16009764</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Downing AK, Knott V, Werner JM, Cardy CM, Campbell ID, et al. Solution structure of a pair
+                        of calcium-binding epidermal growth factor-like domains: implications for the Marfan syndrome
+                        and other genetic disorders. Cell. 1996;85:597–605.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">8653794</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Opherk C, Duering M, Peters N, Karpinska A, Rosner S, et al. CADASIL mutations enhance
+                        spontaneous multimerization of NOTCH3. Hum Mol Genet. 2009;18:2761–2767.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">19417009</ArticleId>
+                    </ArticleIdList>
+                </Reference>
+            </ReferenceList>
+        </PubmedData>
+    </PubmedArticle>
+    <PubmedArticle>
+        <MedlineCitation IndexingMethod="Manual" Owner="NLM" Status="MEDLINE">
+            <PMID Version="1">23587639</PMID>
+            <DateCompleted>
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </DateRevised>
+            <Article PubModel="Print-Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1558-1497</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>34</Volume>
+                        <Issue>9</Issue>
+                        <PubDate>
+                            <Year>2013</Year>
+                            <Month>Sep</Month>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Neurobiology of aging</Title>
+                    <ISOAbbreviation>Neurobiol Aging</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>First deep intronic mutation in the NOTCH3 gene in a family with late-onset CADASIL.
+                </ArticleTitle>
+                <Pagination>
+                    <StartPage>2234.e9</StartPage>
+                    <MedlinePgn>2234.e9-12</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neurobiolaging.2013.03.005</ELocationID>
+                <ELocationID EIdType="pii" ValidYN="Y">S0197-4580(13)00105-X</ELocationID>
+                <Abstract>
+                    <AbstractText>CADASIL is the most prominent inherited form of vascular dementia. The main clinical
+                        features include migraine with aura, stroke, mood disturbances, and cognitive decline, with a
+                        mid-life (30s-60s) adult onset. Genetic testing is the gold standard for the diagnosis. CADASIL
+                        is caused mostly by missense mutations in the NOTCH3 gene, invariably involving a cysteine
+                        residue. Only a couple of splice site mutations have been reported. In a few pathologically
+                        defined patients, genetic mutations remain unidentified. We report a family with late-onset
+                        CADASIL phenotype carrying a novel intronic deletion in the NOTCH3 gene (c.341-26_24delAAC).
+                        Transcript analysis revealed a splicing alteration, with the complete intron 3 retention. The
+                        insertion was in-frame and encoded an extra 25 amino acids, including 1 cysteine. This is the
+                        first report of an aberrant splicing event of the NOTCH3 gene associated with a mutation far
+                        away from the canonical splice site. Our finding suggests that the assays used to evaluate
+                        splicing should be mandatory in the diagnostic setting of genetically undefined CADASIL cases.
+                    </AbstractText>
+                    <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Bianchi</LastName>
+                        <ForeName>Silvia</ForeName>
+                        <Initials>S</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Medical, Surgical and Neurological Sciences, University of Siena,
+                                Siena, Italy.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Dotti</LastName>
+                        <ForeName>Maria Teresa</ForeName>
+                        <Initials>MT</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Gallus</LastName>
+                        <ForeName>Gian Nicola</ForeName>
+                        <Initials>GN</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>D'Eramo</LastName>
+                        <ForeName>Camilla</ForeName>
+                        <Initials>C</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Di Donato</LastName>
+                        <ForeName>Ilaria</ForeName>
+                        <Initials>I</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Bernardi</LastName>
+                        <ForeName>Livia</ForeName>
+                        <Initials>L</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Maletta</LastName>
+                        <ForeName>Raffaele</ForeName>
+                        <Initials>R</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Puccio</LastName>
+                        <ForeName>Gianfranco</ForeName>
+                        <Initials>G</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Bruni</LastName>
+                        <ForeName>Amalia C</ForeName>
+                        <Initials>AC</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Federico</LastName>
+                        <ForeName>Antonio</ForeName>
+                        <Initials>A</Initials>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D002363">Case Reports</PublicationType>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2013</Year>
+                    <Month>04</Month>
+                    <Day>12</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>United States</Country>
+                <MedlineTA>Neurobiol Aging</MedlineTA>
+                <NlmUniqueID>8100437</NlmUniqueID>
+                <ISSNLinking>0197-4580</ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C499374">NOTCH3 protein, human</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D000071656">Receptor, Notch3</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D051880">Receptors, Notch</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>9007-49-2</RegistryNumber>
+                    <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>K848JZ4886</RegistryNumber>
+                    <NameOfSubstance UI="D003545">Cysteine</NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D017668">Age of Onset</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D017398">Alternative Splicing</DescriptorName>
+                    <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D046589">CADASIL</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D003545">Cysteine</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D004247">DNA</DescriptorName>
+                    <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D017809">Fatal Outcome</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D015894">Genome, Human</DescriptorName>
+                    <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D007438">Introns</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D020125">Mutation, Missense</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D000071656">Receptor, Notch3</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="N" UI="D051880">Receptors, Notch</DescriptorName>
+                    <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName MajorTopicYN="Y" UI="D035781">Siblings</DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2012</Year>
+                    <Month>7</Month>
+                    <Day>9</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="revised">
+                    <Year>2013</Year>
+                    <Month>3</Month>
+                    <Day>2</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2013</Year>
+                    <Month>3</Month>
+                    <Day>11</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2013</Year>
+                    <Month>4</Month>
+                    <Day>17</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2013</Year>
+                    <Month>4</Month>
+                    <Day>17</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2014</Year>
+                    <Month>1</Month>
+                    <Day>18</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">23587639</ArticleId>
+                <ArticleId IdType="doi">10.1016/j.neurobiolaging.2013.03.005</ArticleId>
+                <ArticleId IdType="pii">S0197-4580(13)00105-X</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

@@ -1,2 +1,10 @@
 /.idea
 .env
+/data/raw/
+/data/downloaded_pmids.txt
+__pycache__/
+*.log
+/data/BioASQ_raw.json
+/data/pubmed_docs.jsonl
+/data/pubmed_failed_pmids.txt
+.venv/

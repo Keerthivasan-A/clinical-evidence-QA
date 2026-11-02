@@ -31,7 +31,7 @@ INPUT_FILE_PATH = DATA_DIR / "pmids_to_fetch.txt"
 RAW_DIR = DATA_DIR / "raw"
 DOWNLOADED_FILE_PATH = DATA_DIR / "pmids_downloaded.txt"
 FAILED_FILE_PATH = DATA_DIR / "pmids_failed.txt"
-N_BATCH_SIZE = 100  # NCBI recommends up to ~200 IDs per GET request
+N_BATCH_SIZE = 200  # NCBI recommends up to ~200 IDs per GET request
 JOB_NAME = "download_pubmed_xml"
 XML_MARKER = b"<PubmedArticleSet"  # a real efetch answer always contains this
 

@@ -8,3 +8,5 @@ __pycache__/
 /data/pubmed_docs.jsonl
 /data/pmids_failed.txt
 .venv/
+*.pyc
+*.log

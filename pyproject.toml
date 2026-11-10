@@ -9,6 +9,7 @@ dependencies = [
     "nbformat>=5.11.1",
     "openpyxl>=3.1.5",
     "pandas>=3.1.0",
+    "pinecone>=10.3.0",
     "plotly>=7.1.0",
     "psycopg[binary]>=3.3.6",
     "pytest>=9.2.0",

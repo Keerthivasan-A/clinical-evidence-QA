@@ -22,6 +22,9 @@ imports and the log folder depend on it.
         │  4  load_pubmed_to_postgres    (no network: parses with pubmed_parser)
         ▼
  Postgres: articles, authors, mesh_terms
+        │  5  export_pubmed_jsonl        (no network: joins the three tables)
+        ▼
+ data/pubmed_docs.jsonl                  (one flat document per article, for Pinecone)
 ```
 
 Each step reads the file the previous step wrote. That file is the only hand-off between steps, so you can stop, inspect
@@ -33,6 +36,7 @@ or rerun any step on its own.
 | 2 | `uv run python -m etl.extract_bioasq_pmids` | `data/BioASQ_extracted.xlsx` | `data/pmids_to_fetch.txt` | step 1 |
 | 3 | `uv run python -m etl.download_pubmed_xml` | `data/pmids_to_fetch.txt` | `data/raw/batch_XXXX.xml.gz`, `data/pmids_downloaded.txt`, `data/pmids_failed.txt` | internet, `.env` |
 | 4 | `uv run python -m etl.load_pubmed_to_postgres` | `data/raw/*.xml.gz` | tables in Postgres | a running Postgres, `.env` |
+| 5 | `uv run python -m etl.export_pubmed_jsonl` | `articles`, `authors`, `mesh_terms` in Postgres | `data/pubmed_docs.jsonl` | step 4, `.env` |
 
 `data/BioASQ_extracted.xlsx` and `data/pmids_to_fetch.txt` are committed, so on a fresh clone you can start at step 3.
 
@@ -84,6 +88,26 @@ It creates the tables if they are missing and is safe to rerun: articles are upd
 terms are replaced, all in one transaction per file. A file that cannot be parsed is logged and skipped, the others still
 load.
 
+**5. `export_pubmed_jsonl`** joins `articles`, `authors` and `mesh_terms` on `pmid` and writes one JSON document per
+line to `data/pubmed_docs.jsonl` (option: `--output`). Authors and MeSH terms are collapsed to one list per article
+before the join, so an article never turns into several lines. Each document is flat, because Pinecone metadata only
+allows strings, numbers and lists of strings:
+
+| Field | Source |
+|-------|--------|
+| `_id` | `pmid` |
+| `text` | title, a blank line, then the abstract (title only when the abstract is missing or just repeats the title) |
+| `title`, `journal`, `doi`, `year` | the article; fields with no value are left out, never written as `null` |
+| `publication_types`, `chemicals`, `keywords` | the article's lists |
+| `authors` | author names in listed order |
+| `mesh_terms`, `mesh_major` | all MeSH descriptors, and those flagged as a major topic |
+
+`loaded_at` is not exported. Articles with neither title nor abstract are left out. A document Pinecone would reject
+(a text token over 1,024 bytes, or a document over 2 MB) is skipped and logged as `doc_skipped` with its reason, because
+one bad document fails a whole upsert batch. The file is written to a temp name and renamed at the end, so a failed run
+never replaces a good file. The result counts (`expected`, `written`, `skipped`) are logged, and `count_mismatch` is
+warned if they do not add up. To change the document shape, edit `EXPORT_SQL` in the script and rerun.
+
 ## Other files
 
 | File | Purpose |
@@ -101,6 +125,7 @@ Every script writes JSON lines to its own file in the shared `logs/` folder, wha
 | `extract_bioasq_pmids` | `logs/extract_bioasq_pmids.log` |
 | `download_pubmed_xml` | `logs/download_pubmed_xml.log` |
 | `load_pubmed_to_postgres` | `logs/load_pubmed_to_postgres.log` |
+| `export_pubmed_jsonl` | `logs/export_pubmed_jsonl.log` |
 
 Each line carries `job` and `run_id`, so one run is easy to pull out. Useful events: `job_started` / `job_finished` /
 `job_failed` (with traceback), `batch_done` / `batch_failed`, `file_loaded` / `file_load_failed`. Example:

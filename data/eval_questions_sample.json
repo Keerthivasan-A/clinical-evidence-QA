@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "606081e594d57fd879000041",
+    "type": "factoid",
+    "input": "Which bioconductor tool has been developed for accessing bacterial regulatory networks?",
+    "gold_pmids": [
+      "32573705"
+    ]
+  },
+  {
+    "id": "5c56b96e07647bbc4b000010",
+    "type": "factoid",
+    "input": "Which tool has been developed for tagging biomedical concepts via interactive learning?",
+    "gold_pmids": [
+      "29788413"
+    ]
+  },
+  {
+    "id": "61f563f7882a024a10000006",
+    "type": "factoid",
+    "input": "What is caused by biallelic variants in PCDHGC4?",
+    "gold_pmids": [
+      "34244665"
+    ]
+  },
+  {
+    "id": "5a76160a83b0d9ea66000020",
+    "type": "factoid",
+    "input": "Which sequence-based algorithm for branch point prediction has been proposed?",
+    "gold_pmids": [
+      "28633445"
+    ]
+  },
+  {
+    "id": "56ae6e650a360a5e4500000e",
+    "type": "factoid",
+    "input": "Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica",
+    "gold_pmids": [
+      "23185044"
+    ]
+  },
+  {
+    "id": "621e63a43a8413c653000051",
+    "type": "factoid",
+    "input": "Which is the literature-based database of phenotypes?",
+    "gold_pmids": [
+      "34788791"
+    ]
+  },
+  {
+    "id": "6032b6661cb411341a00014a",
+    "type": "factoid",
+    "input": "Which human tissue synthesize CRP?",
+    "gold_pmids": [
+      "31758923",
+      "31840602"
+    ]
+  },
+  {
+    "id": "535d2cf09a4572de6f000004",
+    "type": "factoid",
+    "input": "What is the number of long non coding RNAs in the human genome",
+    "gold_pmids": [
+      "23126680",
+      "23369519",
+      "23846593"
+    ]
+  },
+  {
+    "id": "6217da133a8413c653000026",
+    "type": "factoid",
+    "input": "Where is the the protein perforin localized?",
+    "gold_pmids": [
+      "33410220",
+      "33467515",
+      "33710487",
+      "33884612"
+    ]
+  },
+  {
+    "id": "603404f41cb411341a00014f",
+    "type": "factoid",
+    "input": "When is DELE1 exiting the mitochondrion?",
+    "gold_pmids": [
+      "32132706",
+      "32132707"
+    ]
+  },
+  {
+    "id": "60853db94e6a4cf630000010",
+    "type": "factoid",
+    "input": "What is a circRNA?",
+    "gold_pmids": [
+      "32667692",
+      "32889059",
+      "33112505"
+    ]
+  },
+  {
+    "id": "5a897a06fcd1d6a10c00000b",
+    "type": "factoid",
+    "input": "What is the normal body temperature in dogs?",
+    "gold_pmids": [
+      "25854787",
+      "28992906"
+    ]
+  },
+  {
+    "id": "58efa1b870f9fc6f0f000003",
+    "type": "factoid",
+    "input": "What is a \"chemobrain\"?",
+    "gold_pmids": [
+      "25176562",
+      "25687405",
+      "26653737",
+      "27041861",
+      "27709283"
+    ]
+  },
+  {
+    "id": "5e2e1792fbd6abf43b000024",
+    "type": "factoid",
+    "input": "Mutations in which gene form the genetic basis of the DOORS syndrome?",
+    "gold_pmids": [
+      "24291220",
+      "25169878",
+      "25557349",
+      "27259978",
+      "30335140"
+    ]
+  },
+  {
+    "id": "5cebf83ea49efeb44c00000a",
+    "type": "factoid",
+    "input": "Are male or female persons more prone to autoimmunity?",
+    "gold_pmids": [
+      "16549717",
+      "17108242",
+      "18603021",
+      "1958563",
+      "22155196",
+      "25956531",
+      "30394940",
+      "508371"
+    ]
+  },
+  {
+    "id": "54e0ba781388e8454a000011",
+    "type": "factoid",
+    "input": "Where is the metaxin complex localized?",
+    "gold_pmids": [
+      "10381257",
+      "11027586",
+      "17510655",
+      "17624330",
+      "17981999",
+      "19552401",
+      "9045676",
+      "9705320"
+    ]
+  },
+  {
+    "id": "5e5e502a1af46fc13000000a",
+    "type": "factoid",
+    "input": "What receptor is associated with the protein encoded by the Sp\u00e4tzle gene?",
+    "gold_pmids": [
+      "11536362",
+      "30146479",
+      "30308293",
+      "30361090",
+      "31088910",
+      "7590233",
+      "8124709"
+    ]
+  },
+  {
+    "id": "623e02e0f0baec9a1b000005",
+    "type": "factoid",
+    "input": "What is the KDEL retention signal?",
+    "gold_pmids": [
+      "10767987",
+      "28669732",
+      "29733248",
+      "32020276",
+      "7893163"
+    ]
+  },
+  {
+    "id": "532366f09b2d7acc7e000015",
+    "type": "factoid",
+    "input": "Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?",
+    "gold_pmids": [
+      "11706120",
+      "15304596",
+      "16717210",
+      "17726918",
+      "18313300",
+      "18710532",
+      "19006080",
+      "19043263",
+      "20224942",
+      "21038489",
+      "21616505",
+      "21772710",
+      "22082899",
+      "22367627",
+      "22623959",
+      "23587639",
+      "23597439",
+      "23799017",
+      "24086431"
+    ]
+  },
+  {
+    "id": "58a32edd60087bc10a000012",
+    "type": "factoid",
+    "input": "What is Contrave prescribed for?",
+    "gold_pmids": [
+      "19777400",
+      "20509712",
+      "20673995",
+      "21951371",
+      "22313529",
+      "23408728",
+      "25258511",
+      "26105116",
+      "26222044",
+      "26313898",
+      "26648466",
+      "26679384",
+      "26957883"
+    ]
+  },
+  {
+    "id": "56ffd805cf1c32585100000a",
+    "type": "factoid",
+    "input": "Which is the main difference between Alu and B1 repeats?",
+    "gold_pmids": [
+      "1549107",
+      "17407136",
+      "17852045",
+      "1945845",
+      "20019790",
+      "2412135",
+      "3221855",
+      "7681065",
+      "8036148",
+      "8576966",
+      "9748291"
+    ]
+  },
+  {
+    "id": "5156be04d24251bc05000085",
+    "type": "factoid",
+    "input": "What gene test is recommended for clopidogrel?",
+    "gold_pmids": [
+      "17681590",
+      "18004210",
+      "18577829",
+      "19706858",
+      "20083681",
+      "20435227",
+      "21803320",
+      "22088980",
+      "22154242",
+      "22464343",
+      "22624833",
+      "22674970",
+      "22974536"
+    ]
+  },
+  {
+    "id": "5314bd7ddae131f847000006",
+    "type": "factoid",
+    "input": "Which hormone receptor function is altered in patients with Donohue syndrome?",
+    "gold_pmids": [
+      "17201797",
+      "18411068",
+      "19774849",
+      "19882513",
+      "21092701",
+      "22768670",
+      "22972224",
+      "23229189",
+      "23824322",
+      "23990696",
+      "24498630"
+    ]
+  },
+  {
+    "id": "601c1a271cb411341a000011",
+    "type": "yesno",
+    "input": "Can SMAD6 variants cause craniosynostosis?",
+    "gold_pmids": [
+      "32499606"
+    ]
+  },
+  {
+    "id": "5c51f44c07ef653866000004",
+    "type": "yesno",
+    "input": "Are Copy Number Variants (CNVs) depleted in regions of low mappability?",
+    "gold_pmids": [
+      "30137632"
+    ]
+  },
+  {
+    "id": "5e36994092b3349b55000002",
+    "type": "yesno",
+    "input": "Is there a role for TET proteins in invariant natural killer T cells (iNKT) cell fate?",
+    "gold_pmids": [
+      "27869820"
+    ]
+  },
+  {
+    "id": "6060e03394d57fd879000048",
+    "type": "yesno",
+    "input": "Are synonymous sites in primates and rodents functionally constrained?",
+    "gold_pmids": [
+      "26563252"
+    ]
+  },
+  {
+    "id": "5a76072283b0d9ea66000013",
+    "type": "yesno",
+    "input": "Does armodafinil improve fatigue of glioma patients?",
+    "gold_pmids": [
+      "26902850"
+    ]
+  },
+  {
+    "id": "5e29f959aa19d74431000004",
+    "type": "yesno",
+    "input": "Can LB-100 sensitize ovarian carcinoma to cisplatin?",
+    "gold_pmids": [
+      "25376608"
+    ]
+  },
+  {
+    "id": "61fa904fc9dfcb9c09000004",
+    "type": "yesno",
+    "input": "Is Erythropoietin effective for neuroprotection of Preterm Infants.",
+    "gold_pmids": [
+      "31940698",
+      "32961562",
+      "34030616"
+    ]
+  },
+  {
+    "id": "6056fbfc94d57fd87900001d",
+    "type": "yesno",
+    "input": "Does the royal jelly contain proteins?",
+    "gold_pmids": [
+      "31473899",
+      "31936187",
+      "32042077",
+      "33297150"
+    ]
+  },
+  {
+    "id": "58965a4178275d0c4a00000e",
+    "type": "yesno",
+    "input": "Is there any involvement of L1 retrotransposition in the Rett syndrome?",
+    "gold_pmids": [
+      "21085180",
+      "22159035",
+      "23057747",
+      "24389010"
+    ]
+  },
+  {
+    "id": "51485008d24251bc05000028",
+    "type": "yesno",
+    "input": "Is miR-126 involved in heart failure?",
+    "gold_pmids": [
+      "21157109",
+      "23465244"
+    ]
+  },
+  {
+    "id": "58eb7898eda5a57672000006",
+    "type": "yesno",
+    "input": "Are the genes for marneral biosynthesis scattered in the genome of A. thaliana?",
+    "gold_pmids": [
+      "21876149",
+      "22561113"
+    ]
+  },
+  {
+    "id": "5e6e8600c6a8763d23000002",
+    "type": "yesno",
+    "input": "Is the protein MCL-1 anti-apoptotic?",
+    "gold_pmids": [
+      "28905990",
+      "28949029",
+      "28960207"
+    ]
+  },
+  {
+    "id": "5328185dd6d3ac6a3400000e",
+    "type": "yesno",
+    "input": "Is metabolic syndrome related with cardiovascular disease?",
+    "gold_pmids": [
+      "18945929",
+      "19196885",
+      "21234418",
+      "24247648",
+      "24287796",
+      "24290090",
+      "24320031",
+      "24320036",
+      "24320038",
+      "24328010"
+    ]
+  },
+  {
+    "id": "571696d9cb4ef8864c000009",
+    "type": "yesno",
+    "input": "Can RNAPolII function as an RNA-dependent RNA-polymerase?",
+    "gold_pmids": [
+      "15827195",
+      "15964997",
+      "16624367",
+      "17132145",
+      "17855633",
+      "18004386",
+      "20943989",
+      "23395899"
+    ]
+  },
+  {
+    "id": "56ed0a372ac5ed1459000006",
+    "type": "yesno",
+    "input": "Could RG7112 be used as cancer therapy?",
+    "gold_pmids": [
+      "21391905",
+      "22753001",
+      "23084521",
+      "23400593",
+      "24579771",
+      "24812409",
+      "24900694"
+    ]
+  },
+  {
+    "id": "5c6d9a157c78d69471000041",
+    "type": "yesno",
+    "input": "Can you computationally predict Molecular Recognition Features (MoRFs) regions in Intrinsically Disordered Proteins (IDPs)?",
+    "gold_pmids": [
+      "25637562",
+      "26517836",
+      "29042212",
+      "29360926",
+      "30298407",
+      "30324701"
+    ]
+  },
+  {
+    "id": "58c0825502b8c6095300001b",
+    "type": "yesno",
+    "input": "Do T-Cells regulate neuropathic pain?",
+    "gold_pmids": [
+      "15541898",
+      "22189457",
+      "22789131",
+      "23747724",
+      "24553941",
+      "25608762",
+      "25787078",
+      "27646435"
+    ]
+  },
+  {
+    "id": "5a737e233b9d13c70800000d",
+    "type": "yesno",
+    "input": "Does Enzastaurin improve survival of glioblastoma patients?",
+    "gold_pmids": [
+      "20124186",
+      "20150385",
+      "22413865",
+      "23911595",
+      "25398844",
+      "26643807",
+      "27052640",
+      "28259301"
+    ]
+  },
+  {
+    "id": "532c147bd6d3ac6a3400001e",
+    "type": "yesno",
+    "input": "Have thyronamines  effects on fat tissue?",
+    "gold_pmids": [
+      "17204552",
+      "17579492",
+      "17912534",
+      "18486124",
+      "19116337",
+      "19273499",
+      "20005733",
+      "20880963",
+      "21490071",
+      "21664427",
+      "22016721",
+      "6094171"
+    ]
+  },
+  {
+    "id": "550bf315c2af5d5b7000000e",
+    "type": "yesno",
+    "input": "Is cystatin C or cystatin 3 used as a biomarker of kidney function?",
+    "gold_pmids": [
+      "23571811",
+      "23574755",
+      "23577724",
+      "23669156",
+      "23698027",
+      "23701892",
+      "23744636",
+      "23797027",
+      "23813702",
+      "23866593",
+      "23910705",
+      "24001705",
+      "24114579",
+      "24178972",
+      "24262510",
+      "24300829",
+      "24321840"
+    ]
+  },
+  {
+    "id": "5a7379a83b9d13c70800000a",
+    "type": "yesno",
+    "input": "Is Rucaparib effective for ovarian cancer?",
+    "gold_pmids": [
+      "23729402",
+      "27087632",
+      "27908594",
+      "27940438",
+      "28057616",
+      "28205191",
+      "28247266",
+      "28264872",
+      "28751443",
+      "28790837",
+      "28916367",
+      "28994564",
+      "29166829"
+    ]
+  },
+  {
+    "id": "58848ea5e56acf517600000e",
+    "type": "yesno",
+    "input": "Is vemurafenib used for thyroid cancer?",
+    "gold_pmids": [
+      "22649416",
+      "23489023",
+      "24262022",
+      "24756795",
+      "24987354",
+      "25353071",
+      "25467940",
+      "26176686",
+      "26284586",
+      "26636651",
+      "26735176",
+      "26751190",
+      "27127178",
+      "27432558",
+      "27460442",
+      "27554612",
+      "27754804"
+    ]
+  },
+  {
+    "id": "58caf86f02b8c60953000030",
+    "type": "yesno",
+    "input": "Does Yersinia pestis causes a respiratory infection?",
+    "gold_pmids": [
+      "12474416",
+      "16239527",
+      "16714568",
+      "16964684",
+      "17041851",
+      "19629028",
+      "21859946",
+      "24721571",
+      "25691593",
+      "25928467",
+      "25974210",
+      "26123398",
+      "26463167"
+    ]
+  },
+  {
+    "id": "5a760c8483b0d9ea66000017",
+    "type": "summary",
+    "input": "What is the FIRE (Functional Inference of Regulators of Expression) tool?",
+    "gold_pmids": [
+      "28961785"
+    ]
+  },
+  {
+    "id": "5c88b8a275a4a5d21900000b",
+    "type": "summary",
+    "input": "What is the difference between COG133 and COG112?",
+    "gold_pmids": [
+      "16740622"
+    ]
+  },
+  {
+    "id": "5e36de90b5b409ea5300000e",
+    "type": "summary",
+    "input": "What is the role of the Hof1-Cyk3 interaction in yeast?",
+    "gold_pmids": [
+      "29321253"
+    ]
+  },
+  {
+    "id": "5c93ea7cecadf2e73f00001d",
+    "type": "summary",
+    "input": "What are there sex differences in SAMHD1 activity?",
+    "gold_pmids": [
+      "30299483"
+    ]
+  },
+  {
+    "id": "62128c503a8413c653000018",
+    "type": "summary",
+    "input": "Describe the N6-methyladenosine RNA modification in AML",
+    "gold_pmids": [
+      "33337619"
+    ]
+  },
+  {
+    "id": "606ae55d94d57fd879000057",
+    "type": "summary",
+    "input": "What are the EMA and FDA recommendations regarding pharmacogenetic testing for abacavir?",
+    "gold_pmids": [
+      "23204921"
+    ]
+  },
+  {
+    "id": "5c5f2d5a1a4c55d80b000023",
+    "type": "summary",
+    "input": "What is known about the gut bacteria and depression.",
+    "gold_pmids": [
+      "28215162",
+      "28455694",
+      "29134359",
+      "29432299"
+    ]
+  },
+  {
+    "id": "5e920ddf2d3121100d00000d",
+    "type": "summary",
+    "input": "What is endoplasmic reticulum stress?",
+    "gold_pmids": [
+      "26842780",
+      "28295916",
+      "28833755"
+    ]
+  },
+  {
+    "id": "5159cc88d24251bc050000a4",
+    "type": "summary",
+    "input": "How does exercise affect thyroid hormone receptors expression in the heart?",
+    "gold_pmids": [
+      "11577024",
+      "14704232",
+      "21625820"
+    ]
+  },
+  {
+    "id": "6023480b1cb411341a000091",
+    "type": "summary",
+    "input": "What are the uses of Nirsevimab?",
+    "gold_pmids": [
+      "32726528",
+      "32759319"
+    ]
+  },
+  {
+    "id": "5322d9339b2d7acc7e000011",
+    "type": "summary",
+    "input": "What are the main results of PRKAR1A Knockdown?",
+    "gold_pmids": [
+      "16937372",
+      "20824711",
+      "23480756",
+      "24122441"
+    ]
+  },
+  {
+    "id": "58dc2c698acda3452900001f",
+    "type": "summary",
+    "input": "What is ectopia lentis?",
+    "gold_pmids": [
+      "19200529",
+      "25797933",
+      "25939784"
+    ]
+  },
+  {
+    "id": "58a5723c60087bc10a00001e",
+    "type": "summary",
+    "input": "What is the benserazide's mechanism of function when co-administered with L-DOPA in patients with Parkinson's Disease?",
+    "gold_pmids": [
+      "11166288",
+      "11587490",
+      "12703659",
+      "20303948",
+      "25511986",
+      "3768865",
+      "452602",
+      "6437857",
+      "8584079",
+      "9372552"
+    ]
+  },
+  {
+    "id": "56f403d009dd18d46b000004",
+    "type": "summary",
+    "input": "Which is the most well-accepted method for Down syndrome non-invasive prenatal diagnosis?",
+    "gold_pmids": [
+      "12498419",
+      "17697502",
+      "18207470",
+      "21303301",
+      "22038362",
+      "22500647",
+      "22773950",
+      "22839575",
+      "23371439",
+      "25218787"
+    ]
+  },
+  {
+    "id": "5172f8118ed59a060a000019",
+    "type": "summary",
+    "input": "Which metazaon species or taxa are known to lack selenoproteins",
+    "gold_pmids": [
+      "14710190",
+      "16260744",
+      "18698431",
+      "19487332",
+      "19744324",
+      "22943432"
+    ]
+  },
+  {
+    "id": "52f7c91f2059c6d71c00002e",
+    "type": "summary",
+    "input": "What is the genetic basis of progeria",
+    "gold_pmids": [
+      "12714972",
+      "16258283",
+      "18796515",
+      "19842191",
+      "19875478",
+      "21217880"
+    ]
+  },
+  {
+    "id": "58bac5e822d3005309000012",
+    "type": "summary",
+    "input": "How are triple negative gliomas characterized?",
+    "gold_pmids": [
+      "21889777",
+      "22890969",
+      "23288644",
+      "23831947",
+      "26061753",
+      "26989023"
+    ]
+  },
+  {
+    "id": "5c6ffee17c78d6947100005a",
+    "type": "summary",
+    "input": "What is the aim of the METABRIC project?",
+    "gold_pmids": [
+      "19948017",
+      "22912679",
+      "23106814",
+      "26132585",
+      "26354892",
+      "26671300",
+      "26770261",
+      "26813959",
+      "27312051",
+      "27634906",
+      "28472085",
+      "28620450",
+      "29532008",
+      "29727689",
+      "30097312",
+      "30181556"
+    ]
+  },
+  {
+    "id": "517151f28ed59a060a000008",
+    "type": "summary",
+    "input": "What is the correlation between SPARC expression and growth inhibition in human cancer?",
+    "gold_pmids": [
+      "12414657",
+      "12500936",
+      "15958556",
+      "16424866",
+      "19236378",
+      "19830689",
+      "19920824",
+      "20087345",
+      "20100207",
+      "20215880",
+      "20955243",
+      "21098700",
+      "21799470",
+      "22206672",
+      "22863973",
+      "23321672"
+    ]
+  },
+  {
+    "id": "601cbbf11cb411341a00002a",
+    "type": "summary",
+    "input": "What is the mechanism of action of Vericiguat?",
+    "gold_pmids": [
+      "27545139",
+      "28586537",
+      "29032136",
+      "31096775",
+      "32222134",
+      "32458378",
+      "32749493",
+      "33030703",
+      "33032741",
+      "33395323",
+      "33770393",
+      "33850913",
+      "34074190",
+      "34086190",
+      "34157357",
+      "34291399",
+      "34410527",
+      "34431706",
+      "34478114"
+    ]
+  },
+  {
+    "id": "5e30ec74fbd6abf43b00003e",
+    "type": "summary",
+    "input": "What is characteristic to Fitz-Hugh\u2013Curtis syndrome?",
+    "gold_pmids": [
+      "11327124",
+      "15725719",
+      "19058334",
+      "26601101",
+      "26774818",
+      "27094840",
+      "28057084",
+      "29284768",
+      "29417387",
+      "29464468",
+      "29558895",
+      "30226491",
+      "6769152"
+    ]
+  },
+  {
+    "id": "5d383af27bc3fee31f000010",
+    "type": "summary",
+    "input": "How does PRDM9 recognize the specific DNA motifs for meiotic recombination?",
+    "gold_pmids": [
+      "22028627",
+      "22162947",
+      "23618393",
+      "23651476",
+      "26351520",
+      "26840484",
+      "27932493",
+      "28155083",
+      "29072575",
+      "29478809",
+      "29674518"
+    ]
+  },
+  {
+    "id": "620c01ae3a8413c653000005",
+    "type": "list",
+    "input": "Which CYP genes' expression is decreased at the in vivo level following pomegranate juice consumption?",
+    "gold_pmids": [
+      "18158835"
+    ]
+  },
+  {
+    "id": "5c8c095e0101eac870000002",
+    "type": "list",
+    "input": "Which cells secrete lactotransferrin?",
+    "gold_pmids": [
+      "24561791"
+    ]
+  },
+  {
+    "id": "60296ace1cb411341a000115",
+    "type": "list",
+    "input": "List updates for JASPAR 2020",
+    "gold_pmids": [
+      "31701148"
+    ]
+  },
+  {
+    "id": "5171651e8ed59a060a000009",
+    "type": "list",
+    "input": "Which are the synonyms of prostate-specific antigen?",
+    "gold_pmids": [
+      "19079621"
+    ]
+  },
+  {
+    "id": "5a75fbf383b0d9ea6600000a",
+    "type": "list",
+    "input": "Name the phase 3 clinical trials for tofacitinib in colitis.",
+    "gold_pmids": [
+      "28467869"
+    ]
+  },
+  {
+    "id": "58e0035f6fddd3e83e000009",
+    "type": "list",
+    "input": "List the three main structures of the cytoskeleton.",
+    "gold_pmids": [
+      "26498781"
+    ]
+  },
+  {
+    "id": "5c5f2dc21a4c55d80b000024",
+    "type": "list",
+    "input": "List some substances important for proper nervous system function that gut microbes produce.",
+    "gold_pmids": [
+      "26598580",
+      "27571098",
+      "29748506"
+    ]
+  },
+  {
+    "id": "60311f691cb411341a00012a",
+    "type": "list",
+    "input": "List versions of ExpansionHunter",
+    "gold_pmids": [
+      "31134279",
+      "32345345"
+    ]
+  },
+  {
+    "id": "589a245a78275d0c4a000026",
+    "type": "list",
+    "input": "List drug that were evaluated in the CHAMP trial for migraine.",
+    "gold_pmids": [
+      "23594025",
+      "27039826",
+      "27788026"
+    ]
+  },
+  {
+    "id": "601c18eb1cb411341a000010",
+    "type": "list",
+    "input": "Variants in which genes cause nonsyndromic retinal degeneration?",
+    "gold_pmids": [
+      "24697911",
+      "25649381",
+      "28460050",
+      "32753734"
+    ]
+  },
+  {
+    "id": "5c9d18f1ecadf2e73f000033",
+    "type": "list",
+    "input": "List targets of classical analgesics.",
+    "gold_pmids": [
+      "19474215",
+      "20942817"
+    ]
+  },
+  {
+    "id": "60274cd41cb411341a0000e4",
+    "type": "list",
+    "input": "Which drugs were tested in the candor trial?",
+    "gold_pmids": [
+      "32376237",
+      "32682484"
+    ]
+  },
+  {
+    "id": "5517f9286487737b43000002",
+    "type": "list",
+    "input": "Which are the different proteins/isoforms encoded but the ASPH (aspartate beta-hydroxylase) gene in humans?",
+    "gold_pmids": [
+      "10956665",
+      "10974562",
+      "11007777",
+      "11735129",
+      "15798210",
+      "17156427",
+      "17341613",
+      "17706594"
+    ]
+  },
+  {
+    "id": "531b1e3cb166e2b80600003b",
+    "type": "list",
+    "input": "Which histone modifications are associated with Polycomb group (PcG) proteins?",
+    "gold_pmids": [
+      "16537902",
+      "17525233",
+      "19723660",
+      "20385584",
+      "23104054",
+      "23322639",
+      "23694722"
+    ]
+  },
+  {
+    "id": "5314c7afdae131f84700000a",
+    "type": "list",
+    "input": "List common features of Shapiro syndrome",
+    "gold_pmids": [
+      "19027594",
+      "21041995",
+      "23578790",
+      "24187634",
+      "24339619",
+      "7565067"
+    ]
+  },
+  {
+    "id": "5c851c2675a4a5d219000006",
+    "type": "list",
+    "input": "Please list 2 antitoxin antibodies approved by the FDA for reducing the recurrence of Clostridium difficile infection",
+    "gold_pmids": [
+      "25486992",
+      "27757389",
+      "27905086",
+      "28232034",
+      "28480750",
+      "28636484",
+      "28730660",
+      "28865041",
+      "29234211",
+      "29760164"
+    ]
+  },
+  {
+    "id": "58adca6d9ef3c34033000007",
+    "type": "list",
+    "input": "Which proteins control the degradation of cryptic unstable transcripts (CUTs) in yeast?",
+    "gold_pmids": [
+      "16973436",
+      "19169244",
+      "19854134",
+      "21826286",
+      "21878619",
+      "24106327",
+      "25210768",
+      "25680078",
+      "25989903",
+      "27492286"
+    ]
+  },
+  {
+    "id": "52fa73e82059c6d71c000059",
+    "type": "list",
+    "input": "List the existing methods for genetic manipulation of cells.",
+    "gold_pmids": [
+      "12719540",
+      "16451554",
+      "18556259",
+      "18988631",
+      "19594452",
+      "19678910",
+      "21249368",
+      "22675075",
+      "24048932",
+      "24050263",
+      "24055287",
+      "24060313",
+      "24158830",
+      "24222505",
+      "24269346",
+      "24296044",
+      "24296066"
+    ]
+  },
+  {
+    "id": "5173eb428ed59a060a000021",
+    "type": "list",
+    "input": "What type of cancers and inherited diseases have been associated to mutations in the Notch pathway?",
+    "gold_pmids": [
+      "11180599",
+      "12497640",
+      "15712272",
+      "16773578",
+      "17584081",
+      "18775957",
+      "19289631",
+      "20087400",
+      "20823234",
+      "21196490",
+      "21562564",
+      "22156581",
+      "22210878",
+      "22488849",
+      "22891273",
+      "22974708",
+      "23095891",
+      "23359070",
+      "9207788",
+      "9585603"
+    ]
+  },
+  {
+    "id": "5309f8f5970c65fa6b000001",
+    "type": "list",
+    "input": "Which oncogenes are able to induce cellular senescence?",
+    "gold_pmids": [
+      "11971980",
+      "12134086",
+      "12581156",
+      "16818632",
+      "17409421",
+      "17634581",
+      "17664422",
+      "19053174",
+      "19150958",
+      "20010815",
+      "20227040",
+      "20237562",
+      "21969595",
+      "22019769",
+      "22791394",
+      "23216904"
+    ]
+  },
+  {
+    "id": "5a981e66fcd1d6a10c00002f",
+    "type": "list",
+    "input": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.",
+    "gold_pmids": [
+      "10682170",
+      "10863169",
+      "11276389",
+      "12137304",
+      "12148078",
+      "15827427",
+      "15940204",
+      "16762931",
+      "17125447",
+      "17137436",
+      "17469041",
+      "18497723",
+      "19108808",
+      "23145009",
+      "23519746",
+      "26280340",
+      "26543426",
+      "26871396",
+      "28106792"
+    ]
+  },
+  {
+    "id": "56d094f33975bb303a000012",
+    "type": "list",
+    "input": "List functional roles of the FtsZ protein.",
+    "gold_pmids": [
+      "22932926",
+      "23384289",
+      "23463171",
+      "24292151",
+      "24502896",
+      "24506818",
+      "24529242",
+      "24778116",
+      "24825009",
+      "24984796",
+      "25002581",
+      "25124387",
+      "25213228",
+      "25382739",
+      "25519150",
+      "25533961"
+    ]
+  }
+]
